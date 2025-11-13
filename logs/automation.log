@@ -1,0 +1,337 @@
+14:52:22.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:52:23.072 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:23.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:23.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:23.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:52:23.094 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:23.195 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+14:52:35.059 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+14:52:39.955 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:52:39.987 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+14:52:44.546 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:52:44.556 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+14:52:58.831 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:52:58.839 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+14:53:03.628 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+14:53:03.632 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+14:53:17.316 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:50:03.272 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml"
+19:50:03.299 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:50:03.714 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml
+
+19:50:08.078 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+19:50:08.324 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+19:50:09.217 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+19:50:09.261 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+19:50:11.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+19:50:11.110 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+19:50:16.830 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:50:18.490 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+19:53:35.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml"
+19:53:35.385 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:53:35.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml
+
+19:54:01.931 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml"
+19:54:01.944 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:54:02.109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml
+
+19:56:22.403 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml"
+19:56:22.420 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:56:22.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml
+
+19:56:26.144 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:56:27.918 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+21:40:43.962 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml"
+21:40:43.974 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+21:40:44.183 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml
+
+21:40:47.848 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+21:40:47.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+21:40:48.516 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+21:40:48.517 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+21:40:49.684 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+21:40:49.738 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+21:40:55.618 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+21:40:57.017 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+21:44:10.163 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml"
+21:44:10.174 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+21:44:10.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\grouping.xml
+
+21:44:13.583 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+21:44:13.778 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+21:44:14.301 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+21:44:14.303 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+21:44:15.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+21:44:15.459 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+21:44:20.076 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:43:04.702 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+23:43:04.714 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+23:43:05.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+23:43:08.669 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+23:43:08.900 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:43:09.447 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:43:09.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+23:43:10.768 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+23:43:10.803 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+23:43:15.649 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:45:35.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\test-output\testng-failed.xml"
+23:45:35.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+23:45:39.208 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:45:40.485 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+23:50:26.823 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+23:50:26.837 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+23:50:27.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+23:50:30.665 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+23:50:30.838 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:50:31.343 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:50:31.345 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+23:50:31.997 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+23:50:32.745 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+23:50:32.745 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+23:50:40.414 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:50:41.757 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+23:52:42.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+23:52:42.201 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+23:52:42.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+23:52:46.159 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+23:52:46.412 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:52:46.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:52:46.922 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+23:52:47.441 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+23:52:48.077 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+23:52:48.078 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+23:52:52.959 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:55:40.273 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+23:55:40.284 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+23:55:40.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+23:55:43.843 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+23:55:43.999 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:55:44.484 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:55:44.486 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+23:55:45.741 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+23:55:45.787 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+23:55:50.467 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:55:51.773 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+01:35:52.196 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+01:35:52.266 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+01:35:57.947 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+01:35:58.094 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+01:35:58.647 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+01:35:58.653 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+01:36:00.825 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+01:36:00.871 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+01:36:07.849 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+01:36:09.248 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+02:00:16.454 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+02:00:16.474 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:00:20.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+02:00:21.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+02:00:21.787 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+02:00:21.804 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+02:00:23.613 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+02:00:23.656 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+02:00:29.206 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+02:00:30.757 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+02:18:15.914 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+02:18:15.926 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:18:20.229 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+02:18:20.378 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+02:18:20.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+02:18:20.978 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+02:18:21.576 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+02:18:22.275 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+02:18:27.439 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+02:18:28.874 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+09:56:15.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+09:56:15.094 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+09:56:15.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+09:56:20.511 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+09:56:20.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+09:56:21.278 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+09:56:21.307 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+09:56:21.780 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+09:56:21.781 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+09:56:26.943 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+09:56:28.404 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+09:57:51.332 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+09:57:51.365 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+09:57:51.724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+09:57:55.490 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+09:57:55.662 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+09:57:56.263 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+09:57:56.266 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+09:57:58.811 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+09:57:58.850 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+09:58:04.111 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+09:58:05.600 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:00:56.862 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:00:56.875 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:00:57.071 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:01:00.532 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:01:00.584 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+10:01:00.585 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+10:01:05.351 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:01:27.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:01:27.551 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:01:27.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:01:31.015 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:01:31.118 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+10:01:31.119 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+10:01:35.379 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:02:22.973 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:02:23.001 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:02:23.526 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:02:27.925 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:02:28.095 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+10:02:28.095 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+10:02:33.378 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:03:33.905 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:03:33.937 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:03:34.343 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:03:38.822 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:03:39.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:03:39.638 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:03:39.640 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+10:03:41.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+10:03:41.117 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+10:03:46.469 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:03:47.978 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:04:34.815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:04:34.833 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:04:35.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:04:38.254 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:04:38.349 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+10:04:38.349 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+10:04:44.008 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:49:00.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:49:00.118 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:49:00.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:49:05.879 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:49:06.016 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+10:49:06.016 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+10:49:11.821 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:52:12.720 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:52:12.732 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:52:12.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:52:15.854 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:52:15.922 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+10:52:15.922 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+10:52:22.270 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:53:37.205 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:53:37.220 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:53:37.473 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:53:40.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:57:04.027 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml"
+10:57:04.039 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:57:04.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\master.xml
+
+10:57:08.933 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+10:57:09.404 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:57:10.093 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:57:10.157 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details....
+10:57:12.437 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+10:57:12.546 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Account_Registration *****
+10:57:18.575 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:57:20.826 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+11:13:18.157 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:13:18.193 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:13:59.295 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:13:59.329 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:16:17.873 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:16:17.904 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:16:18.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:16:24.021 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+11:16:24.031 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+11:16:24.506 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:16:24.599 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:16:34.660 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+11:16:34.661 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+11:16:44.710 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+11:16:44.711 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+11:21:18.384 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:21:18.415 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:21:19.021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:21:31.843 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+11:21:31.945 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+11:21:32.140 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:21:32.224 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:21:42.293 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+11:21:42.293 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+11:21:52.367 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+11:21:52.369 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+11:34:35.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:34:35.693 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:34:36.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:35:35.880 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:35:35.892 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:35:36.078 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:38:31.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:38:32.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:43:01.857 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:43:02.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:44:36.809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:44:36.820 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:44:37.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:48:24.570 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml"
+11:48:24.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2445084\eclipse-workspace\OpencartV121\crossbrowserTesting.xml
+
+11:48:30.440 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+11:48:30.440 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_Account_Registration *****
+11:48:30.616 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:48:30.693 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:48:40.747 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+11:48:40.747 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+11:48:50.821 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+11:48:50.822 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
